@@ -1,1 +1,1 @@
-{"4":{"name":"GioNFT#4","description":"Gio NFT generator test","image":"/4","attributes":[{"trait_type":"personaje","value":"normal"},{"trait_type":"pelucas","value":"roja"},{"trait_type":"gafas","value":"rayban"}]}
+{"name":"GioNFT#4","description":"Gio NFT generator test","image":""https://raw.githubusercontent.com/guelmi92/MiColeccion/main/4.png"","attributes":[{"trait_type":"personaje","value":"normal"},{"trait_type":"pelucas","value":"roja"},{"trait_type":"gafas","value":"rayban"}]}
